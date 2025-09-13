@@ -72,6 +72,6 @@ I will publish the code soon for the Liquid Display Crystal without the I2C back
 
 ---
 
-## 🖤 Licensure
+## 📜 Licensure
 
 Do whatever you want with it. Attribute me if you want. Just don't use it in a way that violates the law.
