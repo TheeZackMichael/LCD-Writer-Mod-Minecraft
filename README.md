@@ -62,7 +62,7 @@ Follow this diagram for the Liquid Crystal Display WITHOUT the I2C backpack on.
 * `MCreatorLink.h`
 * `LiquidCrystal_I2C.h (for Liquid Display Crystals with the I2C backpack)`
 * `LiquidCrystal.h (for Liquid Display Crystals without the I2C backpack)`
-* `hd44780 (for Liquid Display Crystals without the I2C backpack and newer Arduinos)`
+* `hd44780.h (for Liquid Display Crystals without the I2C backpack and newer Arduinos)`
 
 ---
 
